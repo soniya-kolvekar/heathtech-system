@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-assignment",
+  "version": "1.0.0",
+  "description": "this is my skill lab mongodb assignment by soniya",
+  "license": "ISC",
+  "author": "soniya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongodb": "^7.2.0"
+  }
+}
